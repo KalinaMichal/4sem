@@ -1,0 +1,7 @@
+komilacja w makefile'u
+
+Instrukcja użycia:
+
++>	Lista 3(zadanie na 5):
+	==>	compression: 	./lista3 -c -plain/-delta/-omega/-fibonacci/-gamma <input file> <output file>
+	==>	decompression: 	./lista3 -d -plain/-delta/-omega/-fibonacci/-gamma <input file> <output file>

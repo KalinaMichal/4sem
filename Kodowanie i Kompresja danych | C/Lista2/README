@@ -1,0 +1,8 @@
+komilacja w makefile'u
+
+Instrukcja użycia:
+
++>	Lista 2(zadanie na 5): 
+	==>	compression:   ./lista2 -c <in_file> <out_file>
+	==>	decompression: ./lista2 -d <in_file> <out_file>
+
