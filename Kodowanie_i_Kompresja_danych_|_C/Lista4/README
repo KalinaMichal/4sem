@@ -1,0 +1,8 @@
+komilacja w makefile'u
+
+Instrukcja użycia:
+
+./lista4 <image_file_name>
+
+./lista4 example0.tga
+
